@@ -65,6 +65,9 @@ flutter:
   assets:
     - assets/images/invitation_bg.jpg
     - assets/images/zebra.png
+    - assets/images/youtube_logo.png
+    - assets/images/video_thumbnail.jpg
+    - assets/images/icons/shorts_icon.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
